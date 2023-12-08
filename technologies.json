@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6573236c951cb30aff9e8807"
+  },
+  "name": "HTML5",
+  "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+},{
+  "_id": {
+    "$oid": "6573236c951cb30aff9e8808"
+  },
+  "name": "CSS3",
+  "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+},{
+  "_id": {
+    "$oid": "6573236c951cb30aff9e8809"
+  },
+  "name": "JavaScript",
+  "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+},{
+  "_id": {
+    "$oid": "6573236c951cb30aff9e880a"
+  },
+  "name": "React",
+  "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+},{
+  "_id": {
+    "$oid": "6573236c951cb30aff9e880b"
+  },
+  "name": "NodeJS",
+  "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+},{
+  "_id": {
+    "$oid": "6573236c951cb30aff9e880c"
+  },
+  "name": "ExpressJs",
+  "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+},{
+  "_id": {
+    "$oid": "6573236c951cb30aff9e880d"
+  },
+  "name": "mongoDb",
+  "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+},{
+  "_id": {
+    "$oid": "6573236c951cb30aff9e880e"
+  },
+  "name": "git",
+  "icon": " https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+}]
