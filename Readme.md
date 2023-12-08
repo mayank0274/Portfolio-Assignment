@@ -10,7 +10,7 @@ This repo is solution to react portfolio website assignment
 
 -> First run backend via these commands
 
-`cd derver`
+`cd server`
 
 ` npm install`
 
